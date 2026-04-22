@@ -1,5 +1,3 @@
-Here’s a clean and friendly `README.md` for your Band Name Generator project 🎸
-
 ````markdown
 # 🎶 Band Name Generator
 
@@ -80,6 +78,3 @@ Your band name could be Paris Rocky.
 ---
 
 Enjoy creating your band identity! 🤘
-
-```
-```
